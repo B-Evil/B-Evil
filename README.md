@@ -8,8 +8,6 @@
 ###
 
 <p align="left">👾 Meu objetivo é evoluir continuamente e aprimorando minhas habilidades como desenvolvedor Back-End.<br>🔎 À procura da minha primeira experiência na área, onde possa desenvolver minhas habilidades e gerar valor para a equipe.<br><br>👾 My goal is to continuously evolve and improve my skills as a Back-End developer.<br>🔎 Looking for my first experience in the field, where I can develop my skills and generate value for the team.</p>
----
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B-Evil&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
