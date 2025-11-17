@@ -3,13 +3,12 @@
 </div>
 
 ###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">👾 Meu objetivo é evoluir continuamente e aprimorando minhas habilidades como desenvolvedor Back-End.<br>🔎 À procura da minha primeira experiência na área, onde possa desenvolver minhas habilidades e gerar valor para a equipe.<br><br>👾 My goal is to continuously evolve and improve my skills as a Back-End developer.<br>🔎 Looking for my first experience in the field, where I can develop my skills and generate value for the team.</p>
-
+---
 ###
 
 <div align="center">
@@ -18,7 +17,7 @@
 </div>
 
 ###
-
+---
 <h3 align="center">💻Stack:</h3>
 
 ###
