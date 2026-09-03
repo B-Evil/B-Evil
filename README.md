@@ -6,7 +6,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-> **Engenharia de Software | Desenvolvedor Back-end<.**
+> **Engenharia de Software | Desenvolvedor Back-end.**
 
 Gosto de entender como as coisas funcionam por trás da tela: da primeira linha de código até a estrutura que faz uma aplicação crescer. Neste espaço, registro minha evolução, meus experimentos e os problemas que estou aprendendo a resolver.
 
