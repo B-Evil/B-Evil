@@ -4,20 +4,35 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
+
+> **Engenharia de Software | Desenvolvedor Back-end<.**
+
+Gosto de entender como as coisas funcionam por trás da tela: da primeira linha de código até a estrutura que faz uma aplicação crescer. Neste espaço, registro minha evolução, meus experimentos e os problemas que estou aprendendo a resolver.
+
+
+- Formado em **Análise e Desenvolvimento de Sistemas**
+- Especializando em **Engenharia de Software**
+- Construindo minha trajetória com foco em **Back-end**
+- Estudando **Inglês — nível A2**
+
 
 ###
 
-<p align="left">👾 Meu objetivo é evoluir continuamente e aprimorando minhas habilidades como desenvolvedor Back-End.<br>🔎 À procura da minha primeira experiência na área, onde possa desenvolver minhas habilidades e gerar valor para a equipe.<br><br>👾 My goal is to continuously evolve and improve my skills as a Back-End developer.<br>🔎 Looking for my first experience in the field, where I can develop my skills and generate value for the team.</p>
+```text
+01_Programação_Orientada_a_Objetos/    02_Qualidade_e_robustez/
+├── Classes e objetos                  ├── Tratamento de exceções
+├── Encapsulamento                     ├── Testes unitários
+├── Herança                            ├── Leitura e processamento de arquivos
+├── Polimorfismo                       └── Boas práticas de desenvolvimento
+└── Abstração
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Evil&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-Evil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
+03_Estruturas_de_dados/                04_Tecnologias_web/
+├── Listas encadeadas                  ├── JavaScript
+├── Nós e referências                  ├── HTML5
+├── Iteradores                         ├── CSS3
+└── Análise de desempenho              └── Responsividade
+```
 
 <h3 align="center">💻Stack:</h3>
 
@@ -34,5 +49,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+## Próximo nível
+Meu objetivo é fortalecer os fundamentos, criar soluções back-end cada vez mais completas e aplicar os princípios de Engenharia de Software em projetos reais.
 
 ###
