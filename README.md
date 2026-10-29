@@ -23,15 +23,15 @@ Gosto de entender como as coisas funcionam por trás da tela: da primeira linha 
 01_Programação_Orientada_a_Objetos/    02_Qualidade_e_robustez/
 ├── Classes e objetos                  ├── Tratamento de exceções
 ├── Encapsulamento                     ├── Testes unitários
-├── Herança                            ├── Leitura e processamento de arquivos
-├── Polimorfismo                       └── Boas práticas de desenvolvimento
+├── Herança                            └── Boas práticas de desenvolvimento
+├── Polimorfismo                       
 └── Abstração
 
 03_Estruturas_de_dados/                04_Tecnologias_web/
-├── Listas encadeadas                  ├── JavaScript
-├── Nós e referências                  ├── HTML5
-├── Iteradores                         ├── CSS3
-└── Análise de desempenho              └── Responsividade
+├── LinkedList / DoubleList            ├── JavaScript
+├── Queue                              ├── HTML5
+├── Stack                              ├── CSS3
+└──                                    └── Responsividade
 ```
 
 <h3 align="center">💻Stack:</h3>
